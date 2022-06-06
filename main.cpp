@@ -7,6 +7,7 @@ int main()
     std::cin >> s;
     std::cout << s << std::endl;
     std::cout << "hello" << std::endl;
+    std::cout << "hot fix test" << std::endl;
 
     return 0;
 }
