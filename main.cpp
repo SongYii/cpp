@@ -8,6 +8,7 @@ int main()
     std::cout << s << std::endl;
     std::cout << "hello" << std::endl;
     std::cout << "master test" << std::endl;
+    std::cout << "hot fix test" << std::endl;
 
     return 0;
 }
